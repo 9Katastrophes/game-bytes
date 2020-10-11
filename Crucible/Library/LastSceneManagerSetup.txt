@@ -1,5 +1,9 @@
 sceneSetups:
 - path: Assets/Minigames/MeteorMasher/Scene_MeteorMasher.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Minigames/Solemates/Solemates.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

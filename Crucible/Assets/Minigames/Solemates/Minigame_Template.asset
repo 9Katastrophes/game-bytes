@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2e15ce27a3b28b498c2dcfffd025305, type: 3}
+  m_Name: Minigame_Template
+  m_EditorClassIdentifier: 
+  Name: Solemates
+  Description: Solemates is a game where players help socks find love. The player
+    who matches the most socks to their solemates before the timer ends wins.
+  Year: 2020
+  Semester: 0
+  Thumbnail: {fileID: 21300000, guid: 05d2b34c5d3a365448761905bbad7958, type: 3}
+  CreatorNames: Katherine Wang
+  P1_Objective: Match the most socks to win
+  P2_Objective: Match the most socks to win
+  P1_JoystickDescription: Move
+  P1_Button1Description: Switch Socks
+  P1_Button2Description: Attempt to Match
+  P2_JoystickDescription: Move
+  P2_Button1Description: Switch Socks
+  P2_Button2Description: Attempt to Match
+  GameScene:
+    sceneAsset: {fileID: 102900000, guid: 0e32c74631f90415e87610d302227a7f, type: 3}
+    scenePath: Assets/Minigames/Solemates/Solemates.unity
+  SupportedGameModes: 4
+  ExcludeFromGameList: 1
