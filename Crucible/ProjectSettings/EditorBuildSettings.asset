@@ -45,6 +45,6 @@ EditorBuildSettings:
     path: Assets/Minigames/MarbleRoller/Scene_Platformer.unity
     guid: 3a9d597f14280324891435720ad90af8
   - enabled: 1
-    path: Assets/Minigames/Solemates/Solemates.unity
+    path: Assets/Minigames/Solemates/Scene_Solemates.unity
     guid: 0e32c74631f90415e87610d302227a7f
   m_configObjects: {}

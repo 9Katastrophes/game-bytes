@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f2e15ce27a3b28b498c2dcfffd025305, type: 3}
-  m_Name: Minigame_Template
+  m_Name: Minigame_Solemates
   m_EditorClassIdentifier: 
   Name: Solemates
   Description: Solemates is a game where players help socks find love. The player
@@ -29,6 +29,6 @@ MonoBehaviour:
   P2_Button2Description: Attempt to Match
   GameScene:
     sceneAsset: {fileID: 102900000, guid: 0e32c74631f90415e87610d302227a7f, type: 3}
-    scenePath: Assets/Minigames/Solemates/Solemates.unity
+    scenePath: Assets/Minigames/Solemates/Scene_Solemates.unity
   SupportedGameModes: 4
   ExcludeFromGameList: 1
